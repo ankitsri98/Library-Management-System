@@ -1,0 +1,4 @@
+1,physic,RK,12/11/1990,available
+3,chem,rr,12/11/2000,issued
+2,ksk,FF,12/11/2006,available
+4,english,TM,12/11/1996,issued
